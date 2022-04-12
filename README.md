@@ -1,5 +1,5 @@
 - Hi, I’m Manuel Novoa
-- FulL Stack Engineer
+- Full Stack Engineer
 - React, React Native, Node, Python, PHP
 
 
