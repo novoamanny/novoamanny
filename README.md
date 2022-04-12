@@ -1,5 +1,5 @@
-Hi, I’m Manuel Novoa
-FulL Stack Engineer
+Hi, I’m Manuel Novoa\n
+FulL Stack Engineer\n
 React, React Native, Node, Python, PHP
 
 
