@@ -1,4 +1,4 @@
-Manuel Novoa
+Manuel Novoa </br>
 Full Stack Software Developer
 React, React Native, Redux, Gatsby, WordPress, Node, Python, PHP, JS, TS...
 <!---
