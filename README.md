@@ -1,44 +1,65 @@
-A passionate web developer and digital solutions expert based in DFW, Texas. With a deep love for technology and a commitment to excellence, I specialize in creating innovative web solutions that drive business success.
+# 👋 Hi there! I’m Manny Novoa  
+### Passionate Web Developer & Digital Solutions Expert | Based in DFW, Texas  
 
-About Me
+I specialize in crafting innovative web and software solutions that empower businesses to succeed in the digital landscape. With expertise spanning **web development, eCommerce, SEO, mobile apps, and more**, I thrive on solving challenges with creativity and cutting-edge technology.
 
-I am a versatile developer with expertise in web design and development, eCommerce solutions, SEO, software development and integration, Systems Administration, mobile development. My goal is to leverage technology to solve real-world problems and help businesses thrive in the digital age.
+---
 
-	•	Location: DFW, Texas, USA
-	•	Profession: Full Stack Software Developer
-	•	Hobbies: Coding, Football, Reading, Hiking
+## 🌟 About Me
 
-Skills
+- 💻 **Profession**: Full Stack Software Developer  
+- 🌍 **Location**: DFW, Texas, USA  
+- ⚡ **Hobbies**: Coding, Football, Reading, Hiking  
 
-	•	Web Technologies: HTML, CSS, JavaScript, React, Angular, Vue.js, PHP, WordPress, Liquid, Shopyfy, Gatsby
-	•	Backend: Node.js, Express, Django, Ruby on Rails
-	•	Database: MySQL, PostgreSQL, MongoDB
-	•	DevOps: Docker, Kubernetes, AWS, Azure
-	•	Mobile Development: React Native, Flutter, Swift, Kotlin
-	•	SEO & Analytics: Google Analytics, Yoast SEO
-	•	Others: Git, GitHub, RESTful APIs, GraphQL
+I am driven by the ever-changing world of technology and dedicated to delivering solutions that make a difference. From clean, responsive designs to seamless backend functionality, I aim to bring ideas to life.
 
-Projects
+---
 
-Here are some of the projects I’ve worked on:
+## 🛠️ Skills
 
-	•	Briannas: https://www.briannas.com/
-	•	J's Tint & Car Audio: http://jstintcaraudiodallas.com/
-	•	Cafe Mexicano Coffee: https://cafemexicanocoffee.com/
+### Web Development  
+`HTML` • `CSS` • `JavaScript` • `React` • `Vue.js` • `Angular` • `PHP` • `WordPress` • `Shopify (Liquid)` • `Gatsby`
 
-Check out more of my work in the repositories section.
+### Backend  
+`Node.js` • `Express` • `Django` • `Ruby on Rails`
 
-Get in Touch
+### Databases  
+`MySQL` • `PostgreSQL` • `MongoDB`
 
-I’m always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
+### DevOps & Cloud  
+`Docker` • `Kubernetes` • `AWS` • `Azure`
 
-	•	Email: novoamanuel@ymail.com
-	•	Alternate Email: manny.novoa@novatek.app
+### Mobile Development  
+`React Native` • `Flutter` • `Swift` • `Kotlin`
 
-I look forward to connecting with you!
+### SEO & Analytics  
+`Google Analytics` • `Yoast SEO`
 
+### Others  
+`Git` • `RESTful APIs` • `GraphQL`
 
-<!---
-novoamanny/novoamanny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 Featured Projects
+
+### [Brianna's Fine Salad Dressings](https://www.briannas.com/)  
+A vibrant, feature-rich corporate website for a leading salad dressing brand, showcasing their products and brand story.
+
+### [J's Tint & Car Audio](http://jstintcaraudiodallas.com/)  
+An optimized web presence for a car accessory business specializing in tint, car stereos, and lighting installations.
+
+### [Cafe Mexicano Coffee](https://cafemexicanocoffee.com/)  
+A custom eCommerce platform built on Shopify to promote and sell authentic Mexican coffee blends.
+
+Want to explore more? Check out my [Repositories](#).
+
+---
+
+## 📬 Get in Touch  
+
+I’m always eager to collaborate on exciting new projects or contribute to your vision. Let’s connect:  
+
+- 📧 **Email**: [novoamanuel@ymail.com](mailto:novoamanuel@ymail.com)  
+- 📧 **Alternate Email**: [manny.novoa@novatek.app](mailto:manny.novoa@novatek.app)  
+
+Looking forward to hearing from you!  
