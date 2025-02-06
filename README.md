@@ -42,7 +42,7 @@ I am driven by the ever-evolving world of technology and dedicated to delivering
 
 ## 🚀 Featured Projects
 
-### [Peach-UI-Web](https://github.com/your-username/Peach-UI-Web)  
+### [Peach-UI-Web] 
 A **frontend interface** for the **Peach API**, offering **task management**, **notifications**, and a **control center** to empower productivity. It integrates SMS reminders through Peach API and features a sleek, responsive design for seamless interaction.  
 
 ### [Brianna's Fine Salad Dressings](https://www.briannas.com/)  
