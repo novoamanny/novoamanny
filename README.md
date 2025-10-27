@@ -53,7 +53,7 @@ I’m passionate about **building digital ecosystems**, connecting tools like Sh
 ---
 
 ### **Classic Auto Air LLC** — *Lead Full Stack Developer*  
-📆 Jan 2024 – Present  
+📆 Jan 2024 – Feb 2025  
 🔹 Managed and optimized **5+ Shopify brands**, boosting site traffic by 30%.  
 🔹 Built internal automation tools and APIs that improved efficiency by 25%.  
 🔹 Enhanced SEO, UX, and caching for faster sites and higher conversion rates.  
