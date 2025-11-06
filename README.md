@@ -41,7 +41,7 @@ I’m passionate about **building digital ecosystems**, connecting tools like Sh
 ## 🏢 Professional Experience
 
 ### **DreamCatchers International** — *Software Engineer / Full Stack Developer*  
-📆 March 2024 – Present  
+📆 March 2025 – Present  
 🔹 Built **multi-brand Shopify ecosystems** with dynamic Liquid templates and advanced cart logic, increasing conversions.  
 🔹 Created a **Hair Color Match App** using React Native + Node.js + AI segmentation for 90%+ accuracy.  
 🔹 Developed a **returns & exchanges SaaS platform (Redo)** in Next.js + Firestore, white-labeled for resale.  
