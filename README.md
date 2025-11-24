@@ -40,8 +40,23 @@ I’m passionate about **building digital ecosystems**, connecting tools like Sh
 
 ## 🏢 Professional Experience
 
+### **ID Life** — *Software Engineer / Full Stack Developer*  
+📆 November 2025 – Present 
+
+---
+
+### **NOVATEK** — *Lead Full Stack Developer*  
+📆 Mar 2021 – Present  
+🔹 Developed **NovaTEK**, a PHP/WordPress platform powered by the **Peach API** for dynamic data integration.  
+🔹 Engineered **Peach API** — a multipurpose Node.js backend offering news, weather, and task management data.  
+🔹 Built sites for **Brianna’s**, **Café Mexicano**, **Syntrio**, and **Medical City**, improving SEO and functionality.  
+
+> 🧩 *Impact:* Delivered performant, API-driven platforms that support multiple brands and business verticals.
+
+---
+
 ### **DreamCatchers International** — *Software Engineer / Full Stack Developer*  
-📆 March 2025 – Present  
+📆 March 2025 – October 2025  
 🔹 Built **multi-brand Shopify ecosystems** with dynamic Liquid templates and advanced cart logic, increasing conversions.  
 🔹 Created a **Hair Color Match App** using React Native + Node.js + AI segmentation for 90%+ accuracy.  
 🔹 Developed a **returns & exchanges SaaS platform (Redo)** in Next.js + Firestore, white-labeled for resale.  
@@ -60,16 +75,6 @@ I’m passionate about **building digital ecosystems**, connecting tools like Sh
 🔹 Mentored developers and enforced coding best practices for long-term scalability.  
 
 > ⚡ *Impact:* Increased conversion rates, system reliability, and overall digital performance across multiple brands.
-
----
-
-### **NOVATEK** — *Lead Full Stack Developer*  
-📆 Mar 2021 – Present  
-🔹 Developed **NovaTEK**, a PHP/WordPress platform powered by the **Peach API** for dynamic data integration.  
-🔹 Engineered **Peach API** — a multipurpose Node.js backend offering news, weather, and task management data.  
-🔹 Built sites for **Brianna’s**, **Café Mexicano**, **Syntrio**, and **Medical City**, improving SEO and functionality.  
-
-> 🧩 *Impact:* Delivered performant, API-driven platforms that support multiple brands and business verticals.
 
 ---
 
