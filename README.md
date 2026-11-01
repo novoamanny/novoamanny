@@ -1,13 +1,13 @@
-# 👋 Hi, I'm **Manuel (Manny) Novoa**
+# Hi, I'm **Manuel (Manny) Novoa**
 
-### 🚀 Full Stack Developer | API Engineer | Digital Solutions Architect  
-📍 Based in **DFW, Texas**  
+### Full Stack Developer | API Engineer | Digital Solutions Architect  
+Based in **DFW, Texas**  
 [admin@LaFLORStore.com](mailto:admin@laflorstore.com) - [novoamanuel@ymail.com](mailto:novoamanuel@ymail.com) • [manny.novoa@novatek.app](mailto:manny.novoa@novatek.app)  
 [GitHub.com/NovoaManny](https://github.com/NovoaManny)
 
 ---
 
-## 💡 About Me
+## About Me
 
 I’m a **software engineer** specializing in **scalable web apps**, **API ecosystems**, and **custom business automation tools**.  
 From eCommerce solutions to SaaS platforms, I thrive on creating technology that helps businesses grow and teams move faster.
@@ -16,37 +16,37 @@ I’m passionate about **building digital ecosystems**, connecting tools like Sh
 
 ---
 
-## 🧠 Core Expertise
+## Core Expertise
 
-### 🖥️ **Web & Frontend Development**
+### **Web & Frontend Development**
 `React` • `Next.js` • `Vue.js` • `Angular` • `WordPress (Custom Themes)` • `Liquid` • `TailwindCSS` • `TypeScript`
 
-### ⚙️ **Backend & API Development**
+### **Backend & API Development**
 `Node.js` • `Express` • `PHP` • `Django` • `Ruby on Rails` • `RESTful APIs` • `GraphQL` • `JWT Auth`
 
-### 🗄️ **Databases & Cloud**
+### **Databases & Cloud**
 `MySQL` • `PostgreSQL` • `MongoDB` • `Firebase` • `AWS` • `Azure` • `Google Cloud`
 
-### 📱 **Mobile Development**
+### **Mobile Development**
 `React Native` • `Flutter (Basic)` • `Expo` • `Redux` • `React Navigation`
 
-### 🔍 **DevOps & Tools**
+### **DevOps & Tools**
 `Git` • `Docker` • `Kubernetes` • `Jenkins` • `Postman` • `CI/CD Pipelines`
 
-### 📈 **SEO & Analytics**
+### **SEO & Analytics**
 `Google Analytics` • `Yoast SEO` • `Tag Manager` • `Data-driven Optimization`
 
 ---
 
-## 🏢 Professional Experience
+## Professional Experience
 
 ### **ID Life** — *Software Engineer / Full Stack Developer*  
-📆 November 2025 – Present 
+November 2025 – Present 
 
 ---
 
 ### **NOVATEK** — *Lead Full Stack Developer*  
-📆 Mar 2021 – Present  
+Mar 2021 – Present  
 🔹 Developed **NovaTEK**, a PHP/WordPress platform powered by the **Peach API** for dynamic data integration.  
 🔹 Engineered **Peach API** — a multipurpose Node.js backend offering news, weather, and task management data.  
 🔹 Built sites for **Brianna’s**, **Café Mexicano**, **Syntrio**, and **Medical City**, improving SEO and functionality.  
@@ -56,19 +56,19 @@ I’m passionate about **building digital ecosystems**, connecting tools like Sh
 ---
 
 ### **DreamCatchers International** — *Software Engineer / Full Stack Developer*  
-📆 March 2025 – October 2025  
+March 2025 – October 2025  
 🔹 Built **multi-brand Shopify ecosystems** with dynamic Liquid templates and advanced cart logic, increasing conversions.  
 🔹 Created a **Hair Color Match App** using React Native + Node.js + AI segmentation for 90%+ accuracy.  
 🔹 Developed a **returns & exchanges SaaS platform (Redo)** in Next.js + Firestore, white-labeled for resale.  
 🔹 Architected a **centralized API layer** connecting Shopify, HubSpot, and internal tools.  
 🔹 Launched a **QR-based product engagement system**, bridging physical products to digital onboarding.  
 
-> 💥 *Impact:* Unified disconnected systems, automated operations, and introduced scalable SaaS tools across multiple brands.
+> *Impact:* Unified disconnected systems, automated operations, and introduced scalable SaaS tools across multiple brands.
 
 ---
 
 ### **Classic Auto Air LLC** — *Lead Full Stack Developer*  
-📆 Jan 2024 – Feb 2025  
+Jan 2024 – Feb 2025  
 🔹 Managed and optimized **5+ Shopify brands**, boosting site traffic by 30%.  
 🔹 Built internal automation tools and APIs that improved efficiency by 25%.  
 🔹 Enhanced SEO, UX, and caching for faster sites and higher conversion rates.  
