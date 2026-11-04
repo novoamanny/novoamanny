@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | API Engineer | Digital Solutions Architect  
 Based in **DFW, Texas**  
-[admin@LaFLORStore.com](mailto:admin@laflorstore.com) - [novoamanuel@ymail.com](mailto:novoamanuel@ymail.com) • [manny.novoa@novatek.app](mailto:manny.novoa@novatek.app)  
+[admin@PLAYTEKLABS.com](mailto:admin@playteklabs.com) - [admin@LaFLORStore.com](mailto:admin@laflorstore.com) - [novoamanuel@ymail.com](mailto:novoamanuel@ymail.com) • [manny.novoa@novatek.app](mailto:manny.novoa@novatek.app)  
 [GitHub.com/NovoaManny](https://github.com/NovoaManny)
 
 ---
